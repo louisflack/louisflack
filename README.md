@@ -93,7 +93,7 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Languages
 
 <div align="center">
 
