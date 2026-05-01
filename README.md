@@ -20,10 +20,10 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 
 ## 🎓 Education
 
-| Degree | Field | Institution | |
-|--------|-------|-------------|---|
-| 🎓 Master of Engineering | Electronics Engineering | Politecnico di Torino | |
-| 🎓 Bachelor of Engineering | Electronics Engineering | Politecnico di Torino | |
+| Degree | Field | Institution |
+|--------|-------|-------------|
+| 🎓 Master of Engineering | Electronics Engineering | Politecnico di Torino |
+| 🎓 Bachelor of Engineering | Electronics Engineering | Politecnico di Torino |
 
 ---
 
