@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Luigi%20Gaetano%20Flaccomio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer&descAlignY=58&descSize=20&descColor=a0c4d8&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3a5c,100:0d7377&height=220&section=header&text=Luigi%20Gaetano%20Flaccomio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer&descAlignY=58&descSize=22&descColor=5ce1e6&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4A9EBF&center=true&vCenter=true&width=700&lines=PCB+Design+%7C+FPGA+%7C+Embedded+Systems;Integrated+Photonics+Researcher+%40+KAUST;Formula+Student+Electronics+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5CE1E6&center=true&vCenter=true&width=700&lines=PCB+Design+%7C+FPGA+%7C+Embedded+Systems;Integrated+Photonics+Researcher+%40+KAUST;Formula+Student+Electronics+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,17 +20,45 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 
 ## 🎓 Education
 
-| Degree | Field | Institution |
-|--------|-------|-------------|
-| 🎓 Master of Engineering | Electronics Engineering | Politecnico di Torino |
-| 🎓 Bachelor of Engineering | Electronics Engineering | Politecnico di Torino |
+<div align="center">
+
+### 🏛️ Politecnico di Torino — Turin, Italy
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎓 Master of Engineering**
+
+`Electronics Engineering`
+
+*Expected 2026*
+
+Specialization in Electronics Systems. Master thesis conducted at KAUST on Quantum Dot Lasers for photonic circuit applications. Active in Formula Student and Solar Vehicle extracurricular projects throughout the degree.
+
+</td>
+<td align="center" width="50%">
+
+**🎓 Bachelor of Engineering**
+
+`Electronics Engineering`
+
+*Graduated 2024*
+
+Strong foundations in digital design, FPGAs, Signal Processing, and electronic systems. 
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 💼 Experience
 
 <details>
-<summary><b>🔬 King Abdullah University of Science and Technology — Visiting Student Research Program</b> &nbsp;|&nbsp; <i>Mar 2026 – Jun 2026</i></summary>
+<summary><b>🔬 King Abdullah University of Science and Technology — Visiting Student Research Program</b> &nbsp;|&nbsp; <i>Mar 2026 – Jun 2026</i> &nbsp;|&nbsp; 📍 <i>Thuwal, Saudi Arabia</i></summary>
 <br>
 
 - Master thesis project on **Quantum Dot Lasers** for integrated photonic circuits applications
@@ -39,7 +67,7 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 </details>
 
 <details>
-<summary><b>🏎️ Squadra Corse PoliTo — Head of Hardware Division</b> &nbsp;|&nbsp; <i>Sep 2025 – Mar 2026</i></summary>
+<summary><b>🏎️ Squadra Corse PoliTo — Head of Hardware Division</b> &nbsp;|&nbsp; <i>Sep 2025 – Mar 2026</i> &nbsp;|&nbsp; 📍 <i>Turin, Italy</i></summary>
 <br>
 
 - Responsible for the **design and production process of all PCBs** that make up the Formula Student car
@@ -48,7 +76,7 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 </details>
 
 <details>
-<summary><b>🏎️ Squadra Corse PoliTo — Electronics Design Engineer</b> &nbsp;|&nbsp; <i>Apr 2024 – Aug 2025</i></summary>
+<summary><b>🏎️ Squadra Corse PoliTo — Electronics Design Engineer</b> &nbsp;|&nbsp; <i>Apr 2024 – Aug 2025</i> &nbsp;|&nbsp; 📍 <i>Turin, Italy</i></summary>
 <br>
 
 - Designed and developed **electronic boards** for Formula Student competition vehicles
@@ -58,7 +86,7 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 </details>
 
 <details>
-<summary><b>☀️ Futuro Solare ONLUS — Head of On-Board Electronics & Council Member</b> &nbsp;|&nbsp; <i>Dec 2019 – Present</i></summary>
+<summary><b>☀️ Futuro Solare ONLUS — Head of On-Board Electronics & Council Member</b> &nbsp;|&nbsp; <i>Dec 2019 – Present</i> &nbsp;|&nbsp; 📍 <i>Siracusa, Italy</i></summary>
 <br>
 
 - Responsible for the vehicle's **onboard electronics** systems
@@ -67,7 +95,7 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 </details>
 
 <details>
-<summary><b>🚀 ELSE SRL — Chief Executive Officer</b> &nbsp;|&nbsp; <i>Mar 2023 – May 2024</i></summary>
+<summary><b>🚀 ELSE SRL — Chief Executive Officer</b> &nbsp;|&nbsp; <i>Mar 2023 – May 2024</i> &nbsp;|&nbsp; 📍 <i>Turin, Italy</i></summary>
 <br>
 
 - Led an **innovative Smart Home startup** aiming to revolutionize the domestic environment
@@ -85,8 +113,8 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 |---------|-------------|------|
 | [🖨️ Marlin FW — FlyingBear Ghost 4S](https://github.com/louisflack/Marlin_FW_FlyingBearGhost4S_Amaz3D) | Custom 3D printer firmware based on Marlin | `C` `Firmware` `3D Printing` |
 | [⚡ 1D Convolution HW Accelerator](https://github.com/louisflack/1D-Convolution_HW_Accelerator_CROC_SoC) | Custom 1D AI accelerator integrated in the CROC open-source SoC | `VHDL` `Verilog` `FPGA` `AI` |
-| [🏎️ Dashboard PCB — Squadra Corse](https://github.com/louisflack/Dashboard_PCB_x_SquadraCorsePoliTo) | Dashboard PCB for Formula Student car, 2025 season | `Altium` `PCB` |
-| [🔌 PSU USB PCB — Squadra Corse](https://github.com/louisflack/PSU_USB_PCB_x_SquadraCorsePoliTo) | Power Supply Unit USB PCB, 2025 season | `Altium` `PCB` `Power Electronics` |
+| [🏎️ Dashboard PCB — Squadra Corse](https://github.com/louisflack/Dashboard_PCB_x_SquadraCorsePoliTo) | Dashboard PCB for Formula Student car, 2025 season | `Altium` `PCB` `Embedded` |
+| [🔌 PSU USB PCB — Squadra Corse](https://github.com/louisflack/PSU_USB_PCB_x_SquadraCorsePoliTo) | Power Supply Unit PCB for Formula Student car, 2025 season | `Altium` `PCB` |
 | [🕹️ Steering Board PCB — Squadra Corse](https://github.com/louisflack/Steering_Board_PCB_x_SquadraCorsePoliTo) | Steering board for Formula Student car, 2026 season | `Altium` `PCB` `Embedded` |
 
 </div>
@@ -97,22 +125,29 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 
 <div align="center">
 
-<!-- Languages -->
+### 💻 Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
+
+### 🔧 Hardware Description Languages
+
+![VHDL](https://img.shields.io/badge/VHDL-7B2D8B?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-E60026?style=for-the-badge&logoColor=white)
 
-<!-- EDA / PCB -->
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+### 🖥️ EDA & PCB Design
 
-<!-- 3D / CAD -->
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+
+### 🧱 3D Design & Slicing
+
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros%207-801010?style=for-the-badge&logoColor=white)
 ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-0288D1?style=for-the-badge&logoColor=white)
 ![PrusaSlicer](https://img.shields.io/badge/PrusaSlicer-FF6B00?style=for-the-badge&logoColor=white)
 
-<!-- Dev tools -->
+### 🔀 Version Control
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -133,5 +168,5 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:1a3a5c,100:0a0f1e&height=120&section=footer"/>
 </div>
