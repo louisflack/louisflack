@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0d00,50:8b2500,100:c0592a&height=220&section=header&text=Luigi%20Gaetano%20Flaccomio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer&descAlignY=58&descSize=22&descColor=5ce1e6&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5CE1E6&center=true&vCenter=true&width=700&lines=PCB+Design+%7C+FPGA+%7C+Embedded+Systems;Integrated+Photonics+Researcher+%40+KAUST;Formula+Student+Electronics+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8C42&center=true&vCenter=true&width=700&lines=PCB+Design+%7C+FPGA+%7C+Embedded+Systems;Integrated+Photonics+Researcher+%40+KAUST;Formula+Student+Electronics+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
