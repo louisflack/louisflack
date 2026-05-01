@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3a5c,100:0d7377&height=220&section=header&text=Luigi%20Gaetano%20Flaccomio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer&descAlignY=58&descSize=22&descColor=5ce1e6&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0d00,50:8b2500,100:c0592a&height=220&section=header&text=Luigi%20Gaetano%20Flaccomio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer&descAlignY=58&descSize=22&descColor=5ce1e6&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5CE1E6&center=true&vCenter=true&width=700&lines=PCB+Design+%7C+FPGA+%7C+Embedded+Systems;Integrated+Photonics+Researcher+%40+KAUST;Formula+Student+Electronics+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
@@ -168,5 +168,5 @@ Strong foundations in digital design, FPGAs, Signal Processing, and electronic s
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:1a3a5c,100:0a0f1e&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4500a,50:7a1e00,100:1a0500&height=120&section=footer"/>
 </div>
