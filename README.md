@@ -120,21 +120,6 @@ Whether tackling new challenges or staying up to date with the latest in tech, I
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=louisflack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A9EBF&icon_color=4A9EBF&text_color=c9d1d9&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisflack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A9EBF&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=louisflack&theme=tokyonight&hide_border=true&background=0d1117&stroke=4A9EBF&ring=4A9EBF&fire=ff6b35&currStreakLabel=4A9EBF"/>
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <div align="center">
